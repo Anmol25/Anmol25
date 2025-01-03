@@ -3,7 +3,7 @@
 
 I am a passionate developer with a keen interest in web development, data science, and open source projects. I love to learn new technologies and share my knowledge with others.
 
-- 🌱 I’m currently learning [Technology/Framework]
+- 🌱 I’m currently learning: Deep Learning, Machine Learning
 - 👯 I’m looking to collaborate on [Open Source Projects/Topics]
 - 🤔 I’m looking for help with [Specific Topic]
 - 💬 Ask me about [Topics you are knowledgeable about]
@@ -23,7 +23,7 @@ I am a passionate developer with a keen interest in web development, data scienc
 ## 🌟 Top Repositories
 
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Anmol25&repo=youtube-sentiment-analysis&show_owner=true)](https://github.com/Anmol25/youtube-sentiment-analysis)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Anmol25&repo=real-estate-app&show_owner=true)](https://github.com/Anmol25/real-estate-app)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Anmol25&repo=real_estate_app&show_owner=true)](https://github.com/Anmol25/real_estate_app)
 
 ## 📫 Connect with Me
 

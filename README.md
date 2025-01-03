@@ -22,8 +22,8 @@ I am a passionate developer with a keen interest in web development, data scienc
 
 ## 🌟 Top Repositories
 
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Anmol25&repo=RepoName&show_owner=true)](https://github.com/Anmol25/youtube-sentiment-analysis)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Anmol25&repo=RepoName&show_owner=true)](https://github.com/Anmol25/real-estate-app)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Anmol25&repo=youtube-sentiment-analysis&show_owner=true)](https://github.com/Anmol25/youtube-sentiment-analysis)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Anmol25&repo=real-estate-app&show_owner=true)](https://github.com/Anmol25/real-estate-app)
 
 ## 📫 Connect with Me
 

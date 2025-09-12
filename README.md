@@ -8,8 +8,8 @@ I'm a Software Engineer passionate about backend systems, Machine Learning, and 
 
 ## 🚀 Featured Projects
 
-- [news-aggregator-summarizer-using-ai](https://github.com/Anmol25/news-aggregator-summarizer-using-ai) - An AI-powered application that aggregates news from reputed sources, provides article summaries using DistilBART, and offers features like keyword and semantic search, user subscriptions, likes, bookmarks, and personalized feeds.
+- [NewsDigest - Intelligent Personalized News Platform](https://github.com/Anmol25/news-aggregator-summarizer-using-ai) - NewsDigest is an AI-powered full-stack news platform that aggregates and curates real-time articles. It delivers personalized recommendations based on user reading history, automated summaries to save time, and semantic search for fast, relevant article retrieval. Built with FastAPI, ReactJS, Tailwind CSS, and leveraging LLMs and vector databases, it also includes features like deduplication, interactive insights, and secure authentication.
 
-- [youtube-sentiment-analysis](https://github.com/Anmol25/youtube-sentiment-analysis) - A Chrome extension that predicts the sentiment of YouTube comments using machine learning models, helping users quickly gauge audience reactions.
+- [Youtube Comment Sentiment Analyzer](https://github.com/Anmol25/youtube-sentiment-analysis) - A Chrome extension that predicts the sentiment of YouTube comments using machine learning models, helping users quickly gauge audience reactions.
 
-- [real_estate_app](https://github.com/Anmol25/real_estate_app) - A data-driven application that predicts house prices in the Chandigarh Tricity region and visualizes housing market trends through interactive dashboards.
+- [Chandigarh Real Estate Price Predictor](https://github.com/Anmol25/real_estate_app) - A data-driven application that predicts house prices in the Chandigarh Tricity region and visualizes housing market trends through interactive dashboards.
